@@ -1,6 +1,6 @@
 Modern Business Landing Page
 
-![Modern Business Landing Page](./src/assets/landing-page-preview.png)
+![Modern Business Landing Page](./src/assets/react-busines-landing-page.png)
  
 A sleek and responsive landing page built with React, Tailwind CSS, and smooth Framer Motion animations.
 
