@@ -82,3 +82,4 @@ This was my first project using React combined with Tailwind CSS. Building this 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 If you’d like, I can help you export this as a README.md with the correct relative path for the image. Just let me know!
+
