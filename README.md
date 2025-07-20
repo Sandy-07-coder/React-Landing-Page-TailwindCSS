@@ -2,7 +2,9 @@
 
 ![Modern Business Landing Page](./src/assets/react-busines-landing-page.png)
 
+
 A sleek and responsive landing page built with **React**, **Tailwind CSS**, and smooth **Framer Motion** animations.
+=======
 
 ---
 
@@ -79,5 +81,6 @@ This was my first project using React combined with Tailwind CSS. Building this 
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
